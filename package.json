@@ -1,7 +1,7 @@
 {
   "name": "commonform-renderer",
   "description": "peer dependency for packages that render Common Forms",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (http://kemitchell.com)",
   "keywords": [
     "contracts",
