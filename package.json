@@ -1,0 +1,17 @@
+{
+  "name": "commonform-renderer",
+  "description": "peer dependency for packages that render Common Forms",
+  "version": "0.0.0",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (http://kemitchell.com)",
+  "keywords": [
+    "contracts",
+    "document assembly",
+    "knowledge management",
+    "law"
+  ],
+  "license": "Apache-2.0",
+  "peerDependencies": {
+    "commonform": "1.x"
+  },
+  "repository": "commonform/commonform-renderer"
+}
