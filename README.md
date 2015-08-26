@@ -15,3 +15,5 @@ All packages that peer-depend on this package expect the following arguments:
 3. An `Object` of optional rendering parameters
 
 Such packages return a rendering of the provided Common Form in some format or another, such as Markdown or HTML.
+
+Compliant renderers do _not_ guarantee their arguments won't be modified.
